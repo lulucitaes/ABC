@@ -6,7 +6,7 @@ function preload(){
   trex_running=loadAnimation("trex1.png","trex3.png","trex4.png");
 groundImage=loadImage("ground2.png");
 imagenNubes=loadImage("cloud.png");
-
+} // FALTABA ESTE CORCHETE! :P
  
 function setup(){
   createCanvas(600,200)
